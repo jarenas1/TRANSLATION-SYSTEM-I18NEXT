@@ -1,7 +1,7 @@
-# <div align="center">Restaurant Management System(practice of gitflow)
+# <div align="center">TRANSLATION SYSTEM
 </div>
 
-<div align="center"><img src="file:///C:/Users/juanj/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/968B15768F3D19770471E9436D97913C/Imagen%20de%20WhatsApp%202024-08-12%20a%20las%2020.57.37_6a9aae5b.jpg" alt="Image Description" width="300"></div>
+<div align="center"><img src="file:///C:/Users/juanj/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/968B15768F3D19770471E9436D97913C/Imagen%20de%20WhatsApp%202024-08-12%20a%20las%2020.57.37_dec125d2.jpg" alt="Image Description" width="300"></div>
 
 <p align="justify">translation system using the i18next library</p>
 
