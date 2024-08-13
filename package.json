@@ -18,6 +18,9 @@
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
     "i18next": "^23.11.5",
-    "i18next-http-backend": "^2.5.2"
+    "i18next-http-backend": "^2.5.2",
+    "gh-pages": "^6.1.1",
+    "sass": "^1.77.2",
+    "vite": "^5.2.0"
   }
 }
